@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Programming"
+    url: /programming/
 
-  - title: "Repl"
-    url: /Repl/    
+  - title: "Creativity"
+    url: /creativity/    
 
-  - title: "Scratch"
-    url: /Scratch/    
+  - title: "Data"
+    url: /Data/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Internet"
+    url: /internet/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Abstraction"
+    url: /abstraction/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Global Impact"
+    url: /globalimpact/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
